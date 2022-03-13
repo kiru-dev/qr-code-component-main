@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-replication-using-html-and-css-dCEuZA8s5
-- Live Site URL: https://kiru-dev.github.io/qr-code-component-main
+- Live Site URL: https://kiruanime2003.github.io/qr-code-component-main
 
 ### Built with
 - Semantic HTML5 markup
