@@ -29,4 +29,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 - Website - [Kiruthiga K](https://kiruanime2003.gitlab.io)
 - Blog - [Kiruthiga K](https://kiruanime2003.wordpress.com)
-- Frontend Mentor - [@kiru-dev](https://www.frontendmentor.io/profile/kiru-dev)
+- Frontend Mentor - [@kiruanime2003](https://www.frontendmentor.io/profile/kiruanime2003)
